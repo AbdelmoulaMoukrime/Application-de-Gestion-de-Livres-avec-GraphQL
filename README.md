@@ -28,4 +28,4 @@ f) Filtrez par catégorie \
 g) Testez des requêtes GraphQL directement dans la console \
 h) Modifiez le prix d'un livre existant\
 
-<img src="C:\Users\AbdelmoulaMoukrime\Desktop\BookApp\BookApp\image\image.png" alt="Interface de l'application Book App" width="500" height="300" />
+
